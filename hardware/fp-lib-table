@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "meshy-tron-fps")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/meshy-tron-fps.pretty")(options "")(descr ""))
+)
